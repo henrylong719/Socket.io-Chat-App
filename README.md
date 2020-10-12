@@ -7,7 +7,6 @@ This is a chat app using Node.js, Express, socket.io and some other packages.
 
 ```
 npm install
-
 ```
 
 ```
